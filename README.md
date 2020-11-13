@@ -1,12 +1,11 @@
 
-# idyll-post
+# How to run the file
 
-Template for a single Idyll post.
 
 ## Installation
 
 - Make sure you have `idyll` installed (`npm i -g idyll`).
-  *Note that depending on how npm is installed, you may have to run the above command prefixed with `sudo`.
+  *Note that depending on how npm is installed, you may have to run the above command prefixed with `sudo`.*
   
 - Clone this repo and run `npm install`.
 
