@@ -1,3 +1,4 @@
+
 # idyll-post
 
 Template for a single Idyll post.
@@ -5,6 +6,8 @@ Template for a single Idyll post.
 ## Installation
 
 - Make sure you have `idyll` installed (`npm i -g idyll`).
+  *Note that depending on how npm is installed, you may have to run the above command prefixed with `sudo`.
+  
 - Clone this repo and run `npm install`.
 
 ## Developing a post locally
@@ -22,3 +25,6 @@ Make sure your post has been built, then deploy the docs folder via any static h
 ## Dependencies
 
 You can install custom dependencies by running `npm install <package-name> --save`. Note that any collaborators will also need download the package locally by running `npm install` after pulling the changes.
+
+## Check more of Idyll's documentations
+https://idyll-lang.org/docs/getting-started
